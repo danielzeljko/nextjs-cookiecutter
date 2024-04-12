@@ -56,7 +56,7 @@
     }
   },
   "lint-staged": {
-    "**/*.{ts,tsx,js,jsx,md}": [
+    "**/*.{ts,tsx,js,jsx}": [
       "npm run lint",
       "npm run format"
     ]
