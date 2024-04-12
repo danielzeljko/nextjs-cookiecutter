@@ -16,6 +16,5 @@
   "parserOptions": {
     "sourceType": "module",
     "ecmaVersion": "latest"
-  },
-  "ignorePatterns": ["*.md"]
+  }
 }
